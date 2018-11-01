@@ -11,3 +11,6 @@ https://towardsdatascience.com/the-one-theorem-every-data-scientist-should-know-
 -----NLP----------------
 https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f
 https://bergvca.github.io/2017/10/14/super-fast-string-matching.html
+
+----------------ML----------------------
+https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba
