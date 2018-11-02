@@ -19,3 +19,7 @@ https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-d
 
 --------------------------Neural Netwrok ------------------------
 https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795
+
+
+----VEDIO-------------
+https://www.youtube.com/channel/UCeqlHZDmUEQQHYqnei8doYg
